@@ -43,7 +43,7 @@ export const config = {
   ],
   FESTIVALS: [
     {"type": "生日", "name": "宝宝", "year": "2003", "date": "02-27"},
-    {"type": "生日", "name": "小昊昊", "year": "1996", "date": "03-23"},
+    {"type": "生日", "name": "小昊昊", "year": "2003", "date": "03-23"},
   ],
 
   /**
